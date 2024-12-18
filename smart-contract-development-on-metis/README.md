@@ -2,7 +2,7 @@
 description: Welcome to the Metis Smart Contract Development page!
 ---
 
-# Smart Contract Development on Metis
+# Development on Metis
 
 EVM compatible, chainid, rpcUrl
 
@@ -74,10 +74,3 @@ If you run into any issues or want to get involved with the Metis developer comm
 * Metis Developer Forum
 * Metis Discord Support
 * Contributing to Metis
-
-## FAQs and Troubleshooting
-
-This section will help you find answers to common questions and resolve issues that you may encounter during development.
-
-* Frequently Asked Questions
-* Troubleshooting Transaction Issues

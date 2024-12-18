@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Third-Party Tools
 
 Welcome to the **Third-Party Tools** section of Metis documentation! This section provides an overview of the tools that enhance your development experience on the Metis Layer 2 platform. These tools streamline the process of building, managing, and scaling decentralized applications (dApps) by offering powerful integrations, ready-to-use templates, and seamless workflows.

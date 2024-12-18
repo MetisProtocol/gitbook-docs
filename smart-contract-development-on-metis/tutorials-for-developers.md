@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Tutorials for Developers
 
 To help you refine your skills, this section offers a set of tutorials ranging from beginner to advanced topics. The tutorials will provide hands-on experience with Metis smart contract deployment, gas optimization, and cross-chain operations.

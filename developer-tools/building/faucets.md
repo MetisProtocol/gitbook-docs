@@ -1,4 +1,4 @@
-# Faucets
+# Faucet
 
 ## Testnet Faucets
 
@@ -13,7 +13,3 @@ Below, you'll find a list of active faucets you can use to acquire test tokens f
 | Faucet Name           | Supported Networks                                   |
 | --------------------- | ---------------------------------------------------- |
 | Metis Sepolia Testnet | [https://faucet.metis.io/](https://faucet.metis.io/) |
-
-## If you need more Test Tokens
-
-Join the [Telegram](https://t.me/metis_dev) and make a request in the #metis-test-tokens channel

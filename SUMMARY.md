@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Metis L2 Documentation](README.md)
-* [Smart Contract Development on Metis](smart-contract-development-on-metis/README.md)
+* [Development on Metis](smart-contract-development-on-metis/README.md)
   * [Quick Start](smart-contract-development-on-metis/quick-start/README.md)
     * [Set Up Your Environment](smart-contract-development-on-metis/quick-start/set-up-your-environment.md)
     * [Choose Your Development Framework](smart-contract-development-on-metis/quick-start/choose-your-development-framework/README.md)
@@ -19,7 +19,7 @@
     * [Networks & RPC Endpoints](developer-tools/connecting/networks-and-rpc-endpoints.md)
     * [Node & RPC Providers](developer-tools/connecting/node-and-rpc-providers.md)
   * [Building](developer-tools/building/README.md)
-    * [Faucets](developer-tools/building/faucets.md)
+    * [Faucet](developer-tools/building/faucets.md)
     * [Oracles](developer-tools/building/oracles.md)
     * [Third-Party Tools](developer-tools/building/third-party-tools/README.md)
       * [Thirdweb](developer-tools/building/third-party-tools/thirdweb.md)
@@ -44,5 +44,3 @@
 * [Community & Support](community-and-support/README.md)
   * [Help Center](community-and-support/help-center.md)
   * [Metis Audits](community-and-support/metis-audits.md)
-  * [Bug Bounty](community-and-support/bug-bounty.md)
-* [Connect](connect.md)

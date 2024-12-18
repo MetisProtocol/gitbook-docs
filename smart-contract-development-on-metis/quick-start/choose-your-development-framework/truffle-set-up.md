@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Truffle Set up
 
 ### T**ruffle Setup for Metis**
