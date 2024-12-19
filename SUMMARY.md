@@ -6,7 +6,6 @@
     * [Set Up Your Environment](smart-contract-development-on-metis/quick-start/set-up-your-environment.md)
     * [Choose Your Development Framework](smart-contract-development-on-metis/quick-start/choose-your-development-framework/README.md)
       * [Hardhat Set up](smart-contract-development-on-metis/quick-start/choose-your-development-framework/hardhat-set-up.md)
-      * [Truffle Set up](smart-contract-development-on-metis/quick-start/choose-your-development-framework/truffle-set-up.md)
       * [Foundry Set up](smart-contract-development-on-metis/quick-start/choose-your-development-framework/foundry-set-up.md)
     * [Predeployed Contract Addresses](smart-contract-development-on-metis/quick-start/predeployed-contract-addresses.md)
   * [Cross-chain](smart-contract-development-on-metis/cross-chain/README.md)
